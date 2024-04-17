@@ -1,0 +1,23 @@
+
+To execute the cas9 indel variant identification pipeline execute "Variant_caller_V8.sh" via Mac-OS terminal this leads to the eventual execution of "Variant_lister_V8.sh".
+During this automated process files from the raw_seq_files folder are moved to a new "temp" folder,  porcessed and eventually returned to their original location.
+Successfull execution "Variant_caller_V8.sh" will result in a new folder called "output" and a nohup file which contains information on the shell script process status.
+Once this processed is finished (which may take several hours), "Variant_Translator_29d2.R" can be executed in R-studio to visualise the results.
+"45S-M_KO_29dpf_02.csv" contains a list of the samples and additional information, it is required by the R script. 
+
+Important: 
+- File structure needs to be unchanged for the pipeline to work without modification.
+- The script requires the BBTools software suit to be installed (https://jgi.doe.gov/data-and-tools/software-tools/bbtools/).
+- The script is currently designed for use on a Mac-OS system, running it on Windows or Linux will require adjustment of file paths.
+
+Quick Guide:
+	Terminal
+		cd ./filelocation
+		chmod +x  Variant_caller_V8.sh
+		nohup ./Variant_caller_V8.sh
+		# wait up to several hours
+	R-Studio
+		execute Variant_Translator_29d2.R step by step
+
+Quickest Guide:
+Variant_caller --> Variant_lister --> Variant Translator --> Graph

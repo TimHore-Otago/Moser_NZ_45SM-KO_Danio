@@ -1,0 +1,585 @@
+﻿Individual,figure,filename,Experiment,treatment,dpf,protocol,clutch,sample purpose,length [mm],comment
+T213139,2c,iSeq049-TM-T213-LHamp_S226_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.096,re-sequenced to increase read numbers
+T213139,2c,iSeq049-TM-T213-LHamp_S226_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.096,re-sequenced to increase read numbers
+T214140,2c,iSeq049-TM-T214-LHamp_S227_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.416,re-sequenced to increase read numbers
+T214140,2c,iSeq049-TM-T214-LHamp_S227_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.416,re-sequenced to increase read numbers
+T215141,2c,iSeq049-TM-T215-LHamp_S228_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.646,re-sequenced to increase read numbers
+T215141,2c,iSeq049-TM-T215-LHamp_S228_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.646,re-sequenced to increase read numbers
+T216142,2c,iSeq049-TM-T216-LHamp_S229_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.628,re-sequenced to increase read numbers
+T216142,2c,iSeq049-TM-T216-LHamp_S229_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.628,re-sequenced to increase read numbers
+T217143,2c,iSeq049-TM-T217-LHamp_S230_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.318,re-sequenced to increase read numbers
+T217143,2c,iSeq049-TM-T217-LHamp_S230_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.318,re-sequenced to increase read numbers
+T218144,2c,iSeq049-TM-T218-LHamp_S231_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.006,re-sequenced to increase read numbers
+T218144,2c,iSeq049-TM-T218-LHamp_S231_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.006,re-sequenced to increase read numbers
+T219145,2c,iSeq049-TM-T219-LHamp_S232_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.972,re-sequenced to increase read numbers
+T219145,2c,iSeq049-TM-T219-LHamp_S232_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.972,re-sequenced to increase read numbers
+T220146,2c,iSeq049-TM-T220-LHamp_S233_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.377,re-sequenced to increase read numbers
+T220146,2c,iSeq049-TM-T220-LHamp_S233_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.377,re-sequenced to increase read numbers
+T221147,2c,iSeq049-TM-T221-LHamp_S234_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,6.902,re-sequenced to increase read numbers
+T221147,2c,iSeq049-TM-T221-LHamp_S234_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,6.902,re-sequenced to increase read numbers
+T222148,2c,iSeq049-TM-T222-LHamp_S235_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.285,re-sequenced to increase read numbers
+T222148,2c,iSeq049-TM-T222-LHamp_S235_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.285,re-sequenced to increase read numbers
+T223149,2c,iSeq049-TM-T223-LHamp_S236_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,7.831,re-sequenced to increase read numbers
+T223149,2c,iSeq049-TM-T223-LHamp_S236_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,7.831,re-sequenced to increase read numbers
+T224150,2c,iSeq049-TM-T224-LHamp_S237_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,8.879,re-sequenced to increase read numbers
+T224150,2c,iSeq049-TM-T224-LHamp_S237_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,8.879,re-sequenced to increase read numbers
+T225151,2c,iSeq049-TM-T225-LHamp_S238_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.439,re-sequenced to increase read numbers
+T225151,2c,iSeq049-TM-T225-LHamp_S238_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.439,re-sequenced to increase read numbers
+T226152,2c,iSeq049-TM-T226-LHamp_S239_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.616,re-sequenced to increase read numbers
+T226152,2c,iSeq049-TM-T226-LHamp_S239_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.616,re-sequenced to increase read numbers
+T227153,2c,iSeq049-TM-T227-LHamp_S240_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.363,re-sequenced to increase read numbers
+T227153,2c,iSeq049-TM-T227-LHamp_S240_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.363,re-sequenced to increase read numbers
+T229155,2c,iSeq049-TM-T229-LHamp_S242_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.947,re-sequenced to increase read numbers
+T229155,2c,iSeq049-TM-T229-LHamp_S242_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.947,re-sequenced to increase read numbers
+T230156,2c,iSeq049-TM-T230-LHamp_S243_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T230156,2c,iSeq049-TM-T230-LHamp_S243_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T231157,2c,iSeq049-TM-T231-LHamp_S244_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.542,re-sequenced to increase read numbers
+T231157,2c,iSeq049-TM-T231-LHamp_S244_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.542,re-sequenced to increase read numbers
+T232158,2c,iSeq049-TM-T232-LHamp_S245_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.751,re-sequenced to increase read numbers
+T232158,2c,iSeq049-TM-T232-LHamp_S245_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.751,re-sequenced to increase read numbers
+T233159,2c,iSeq049-TM-T233-LHamp_S246_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.795,re-sequenced to increase read numbers
+T233159,2c,iSeq049-TM-T233-LHamp_S246_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.795,re-sequenced to increase read numbers
+T234160,2c,iSeq049-TM-T234-LHamp_S247_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.718,re-sequenced to increase read numbers
+T234160,2c,iSeq049-TM-T234-LHamp_S247_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.718,re-sequenced to increase read numbers
+T235161,2c,iSeq049-TM-T235-LHamp_S248_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.58,re-sequenced to increase read numbers
+T235161,2c,iSeq049-TM-T235-LHamp_S248_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.58,re-sequenced to increase read numbers
+T236162,2c,iSeq049-TM-T236-LHamp_S249_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.135,re-sequenced to increase read numbers
+T236162,2c,iSeq049-TM-T236-LHamp_S249_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.135,re-sequenced to increase read numbers
+T237163,2c,iSeq049-TM-T237-LHamp_S250_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,10.168,re-sequenced to increase read numbers
+T237163,2c,iSeq049-TM-T237-LHamp_S250_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,10.168,re-sequenced to increase read numbers
+T238164,2c,iSeq049-TM-T238-LHamp_S251_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.614,re-sequenced to increase read numbers
+T238164,2c,iSeq049-TM-T238-LHamp_S251_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.614,re-sequenced to increase read numbers
+T239165,2c,iSeq049-TM-T239-LHamp_S252_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.64,re-sequenced to increase read numbers
+T239165,2c,iSeq049-TM-T239-LHamp_S252_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.64,re-sequenced to increase read numbers
+T240166,2c,iSeq049-TM-T240-LHamp_S253_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.078,re-sequenced to increase read numbers
+T240166,2c,iSeq049-TM-T240-LHamp_S253_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.078,re-sequenced to increase read numbers
+T241167,2c,iSeq049-TM-T241-LHamp_S254_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.921,re-sequenced to increase read numbers
+T241167,2c,iSeq049-TM-T241-LHamp_S254_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.921,re-sequenced to increase read numbers
+T242168,2c,iSeq049-TM-T242-LHamp_S255_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.796,re-sequenced to increase read numbers
+T242168,2c,iSeq049-TM-T242-LHamp_S255_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.796,re-sequenced to increase read numbers
+T243169,2c,iSeq049-TM-T243-LHamp_S256_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.395,re-sequenced to increase read numbers
+T243169,2c,iSeq049-TM-T243-LHamp_S256_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.395,re-sequenced to increase read numbers
+T244170,2c,iSeq049-TM-T244-LHamp_S257_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T244170,2c,iSeq049-TM-T244-LHamp_S257_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T245171,2c,iSeq049-TM-T245-LHamp_S258_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.479,re-sequenced to increase read numbers
+T245171,2c,iSeq049-TM-T245-LHamp_S258_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.479,re-sequenced to increase read numbers
+T246172,2c,iSeq049-TM-T246-LHamp_S259_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.161,re-sequenced to increase read numbers
+T246172,2c,iSeq049-TM-T246-LHamp_S259_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.161,re-sequenced to increase read numbers
+T247173,2c,iSeq049-TM-T247-LHamp_S260_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T247173,2c,iSeq049-TM-T247-LHamp_S260_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T248174,2c,iSeq049-TM-T248-LHamp_S261_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.808,re-sequenced to increase read numbers
+T248174,2c,iSeq049-TM-T248-LHamp_S261_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.808,re-sequenced to increase read numbers
+T249175,2c,iSeq049-TM-T249-LHamp_S262_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.29,re-sequenced to increase read numbers
+T249175,2c,iSeq049-TM-T249-LHamp_S262_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.29,re-sequenced to increase read numbers
+T250176,2c,iSeq049-TM-T250-LHamp_S263_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.074,re-sequenced to increase read numbers
+T250176,2c,iSeq049-TM-T250-LHamp_S263_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.074,re-sequenced to increase read numbers
+T251177,2c,iSeq049-TM-T251-LHamp_S264_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.23,re-sequenced to increase read numbers
+T251177,2c,iSeq049-TM-T251-LHamp_S264_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.23,re-sequenced to increase read numbers
+T252178,2c,iSeq049-TM-T252-LHamp_S265_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.485,re-sequenced to increase read numbers
+T252178,2c,iSeq049-TM-T252-LHamp_S265_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.485,re-sequenced to increase read numbers
+T253179,2c,iSeq049-TM-T253-LHamp_S266_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.399,re-sequenced to increase read numbers
+T253179,2c,iSeq049-TM-T253-LHamp_S266_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.399,re-sequenced to increase read numbers
+T254180,2c,iSeq049-TM-T254-LHamp_S267_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.949,re-sequenced to increase read numbers
+T254180,2c,iSeq049-TM-T254-LHamp_S267_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.949,re-sequenced to increase read numbers
+T255181,2c,iSeq049-TM-T255-LHamp_S268_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.19,re-sequenced to increase read numbers
+T255181,2c,iSeq049-TM-T255-LHamp_S268_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.19,re-sequenced to increase read numbers
+T256182,2c,iSeq049-TM-T256-LHamp_S269_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.589,re-sequenced to increase read numbers
+T256182,2c,iSeq049-TM-T256-LHamp_S269_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.589,re-sequenced to increase read numbers
+T257183,2c,iSeq049-TM-T257-LHamp_S270_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.641,re-sequenced to increase read numbers
+T257183,2c,iSeq049-TM-T257-LHamp_S270_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.641,re-sequenced to increase read numbers
+T258184,2c,iSeq049-TM-T258-LHamp_S271_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,5.811,re-sequenced to increase read numbers
+T258184,2c,iSeq049-TM-T258-LHamp_S271_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,5.811,re-sequenced to increase read numbers
+T259185,2c,iSeq049-TM-T259-LHamp_S272_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.042,re-sequenced to increase read numbers
+T259185,2c,iSeq049-TM-T259-LHamp_S272_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.042,re-sequenced to increase read numbers
+T260186,2c,iSeq049-TM-T260-LHamp_S273_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T260186,2c,iSeq049-TM-T260-LHamp_S273_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T261187,2c,iSeq049-TM-T261-LHamp_S274_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.023,re-sequenced to increase read numbers
+T261187,2c,iSeq049-TM-T261-LHamp_S274_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.023,re-sequenced to increase read numbers
+T262188,2c,iSeq049-TM-T262-LHamp_S275_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.964,re-sequenced to increase read numbers
+T262188,2c,iSeq049-TM-T262-LHamp_S275_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.964,re-sequenced to increase read numbers
+T263189,2c,iSeq049-TM-T263-LHamp_S276_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.857,re-sequenced to increase read numbers
+T263189,2c,iSeq049-TM-T263-LHamp_S276_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.857,re-sequenced to increase read numbers
+T264190,2c,iSeq049-TM-T264-LHamp_S277_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.421,re-sequenced to increase read numbers
+T264190,2c,iSeq049-TM-T264-LHamp_S277_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.421,re-sequenced to increase read numbers
+T265191,2c,iSeq049-TM-T265-LHamp_S278_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.899,re-sequenced to increase read numbers
+T265191,2c,iSeq049-TM-T265-LHamp_S278_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.899,re-sequenced to increase read numbers
+T266192,2c,iSeq049-TM-T266-LHamp_S279_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.658,re-sequenced to increase read numbers
+T266192,2c,iSeq049-TM-T266-LHamp_S279_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.658,re-sequenced to increase read numbers
+T267193,2c,iSeq049-TM-T267-LHamp_S280_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.734,re-sequenced to increase read numbers
+T267193,2c,iSeq049-TM-T267-LHamp_S280_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.734,re-sequenced to increase read numbers
+T268194,2c,iSeq049-TM-T268-LHamp_S281_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.766,re-sequenced to increase read numbers
+T268194,2c,iSeq049-TM-T268-LHamp_S281_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.766,re-sequenced to increase read numbers
+T269195,2c,iSeq049-TM-T269-LHamp_S282_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.982,re-sequenced to increase read numbers
+T269195,2c,iSeq049-TM-T269-LHamp_S282_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.982,re-sequenced to increase read numbers
+T270196,2c,iSeq049-TM-T270-LHamp_S283_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.653,re-sequenced to increase read numbers
+T270196,2c,iSeq049-TM-T270-LHamp_S283_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.653,re-sequenced to increase read numbers
+T271197,2c,iSeq049-TM-T271-LHamp_S284_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.093,re-sequenced to increase read numbers
+T271197,2c,iSeq049-TM-T271-LHamp_S284_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.093,re-sequenced to increase read numbers
+T272198,2c,iSeq049-TM-T272-LHamp_S285_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.174,re-sequenced to increase read numbers
+T272198,2c,iSeq049-TM-T272-LHamp_S285_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.174,re-sequenced to increase read numbers
+T273199,2c,iSeq049-TM-T273-LHamp_S286_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.23,re-sequenced to increase read numbers
+T273199,2c,iSeq049-TM-T273-LHamp_S286_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.23,re-sequenced to increase read numbers
+T274200,2c,iSeq049-TM-T274-LHamp_S287_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.629,re-sequenced to increase read numbers
+T274200,2c,iSeq049-TM-T274-LHamp_S287_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.629,re-sequenced to increase read numbers
+T275201,2c,iSeq049-TM-T275-LHamp_S288_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.438,re-sequenced to increase read numbers
+T275201,2c,iSeq049-TM-T275-LHamp_S288_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.438,re-sequenced to increase read numbers
+T276202,2c,iSeq049-TM-T276-LHamp_S289_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.297,re-sequenced to increase read numbers
+T276202,2c,iSeq049-TM-T276-LHamp_S289_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.297,re-sequenced to increase read numbers
+T277203,2c,iSeq049-TM-T277-LHamp_S290_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.344,re-sequenced to increase read numbers
+T277203,2c,iSeq049-TM-T277-LHamp_S290_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.344,re-sequenced to increase read numbers
+T278204,2c,iSeq049-TM-T278-LHamp_S291_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.924,re-sequenced to increase read numbers
+T278204,2c,iSeq049-TM-T278-LHamp_S291_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.924,re-sequenced to increase read numbers
+T279205,2c,iSeq049-TM-T279-LHamp_S292_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.186,re-sequenced to increase read numbers
+T279205,2c,iSeq049-TM-T279-LHamp_S292_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.186,re-sequenced to increase read numbers
+T280206,2c,iSeq049-TM-T280-LHamp_S293_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.739,re-sequenced to increase read numbers
+T280206,2c,iSeq049-TM-T280-LHamp_S293_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.739,re-sequenced to increase read numbers
+T281207,2c,iSeq049-TM-T281-LHamp_S294_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.295,re-sequenced to increase read numbers
+T281207,2c,iSeq049-TM-T281-LHamp_S294_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.295,re-sequenced to increase read numbers
+T282208,2c,iSeq049-TM-T282-LHamp_S295_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.503,re-sequenced to increase read numbers
+T282208,2c,iSeq049-TM-T282-LHamp_S295_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.503,re-sequenced to increase read numbers
+T283209,2c,iSeq049-TM-T283-LHamp_S296_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.01,re-sequenced to increase read numbers
+T283209,2c,iSeq049-TM-T283-LHamp_S296_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.01,re-sequenced to increase read numbers
+T284210,2c,iSeq049-TM-T284-LHamp_S297_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T284210,2c,iSeq049-TM-T284-LHamp_S297_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T285211,2c,iSeq049-TM-T285-LHamp_S298_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.201,re-sequenced to increase read numbers
+T285211,2c,iSeq049-TM-T285-LHamp_S298_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.201,re-sequenced to increase read numbers
+T286212,2c,iSeq049-TM-T286-LHamp_S299_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T286212,2c,iSeq049-TM-T286-LHamp_S299_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T213139,2c,iSeq049-TM-T139-PBAT_S152_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.096,re-sequenced to increase read numbers
+T213139,2c,iSeq049-TM-T139-PBAT_S152_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.096,re-sequenced to increase read numbers
+T214140,2c,iSeq049-TM-T140-PBAT_S153_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.416,re-sequenced to increase read numbers
+T214140,2c,iSeq049-TM-T140-PBAT_S153_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.416,re-sequenced to increase read numbers
+T215141,2c,iSeq049-TM-T141-PBAT_S154_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.646,re-sequenced to increase read numbers
+T215141,2c,iSeq049-TM-T141-PBAT_S154_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.646,re-sequenced to increase read numbers
+T216142,2c,iSeq049-TM-T142-PBAT_S155_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.628,re-sequenced to increase read numbers
+T216142,2c,iSeq049-TM-T142-PBAT_S155_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.628,re-sequenced to increase read numbers
+T217143,2c,iSeq049-TM-T143-PBAT_S156_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.318,re-sequenced to increase read numbers
+T217143,2c,iSeq049-TM-T143-PBAT_S156_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.318,re-sequenced to increase read numbers
+T218144,2c,iSeq049-TM-T144-PBAT_S157_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.006,re-sequenced to increase read numbers
+T218144,2c,iSeq049-TM-T144-PBAT_S157_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.006,re-sequenced to increase read numbers
+T219145,2c,iSeq049-TM-T145-PBAT_S158_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.972,re-sequenced to increase read numbers
+T219145,2c,iSeq049-TM-T145-PBAT_S158_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.972,re-sequenced to increase read numbers
+T220146,2c,iSeq049-TM-T146-PBAT_S159_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.377,re-sequenced to increase read numbers
+T220146,2c,iSeq049-TM-T146-PBAT_S159_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.377,re-sequenced to increase read numbers
+T221147,2c,iSeq049-TM-T147-PBAT_S160_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,6.902,re-sequenced to increase read numbers
+T221147,2c,iSeq049-TM-T147-PBAT_S160_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,6.902,re-sequenced to increase read numbers
+T222148,2c,iSeq049-TM-T148-PBAT_S161_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.285,re-sequenced to increase read numbers
+T222148,2c,iSeq049-TM-T148-PBAT_S161_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.285,re-sequenced to increase read numbers
+T223149,2c,iSeq049-TM-T149-PBAT_S162_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,7.831,re-sequenced to increase read numbers
+T223149,2c,iSeq049-TM-T149-PBAT_S162_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,7.831,re-sequenced to increase read numbers
+T224150,2c,iSeq049-TM-T150-PBAT_S163_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,8.879,re-sequenced to increase read numbers
+T224150,2c,iSeq049-TM-T150-PBAT_S163_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,8.879,re-sequenced to increase read numbers
+T225151,2c,iSeq049-TM-T151-PBAT_S164_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.439,re-sequenced to increase read numbers
+T225151,2c,iSeq049-TM-T151-PBAT_S164_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.439,re-sequenced to increase read numbers
+T226152,2c,iSeq049-TM-T152-PBAT_S165_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.616,re-sequenced to increase read numbers
+T226152,2c,iSeq049-TM-T152-PBAT_S165_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.616,re-sequenced to increase read numbers
+T227153,2c,iSeq049-TM-T153-PBAT_S166_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.363,re-sequenced to increase read numbers
+T227153,2c,iSeq049-TM-T153-PBAT_S166_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.363,re-sequenced to increase read numbers
+T229155,2c,iSeq049-TM-T155-PBAT_S168_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.947,re-sequenced to increase read numbers
+T229155,2c,iSeq049-TM-T155-PBAT_S168_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.947,re-sequenced to increase read numbers
+T230156,2c,iSeq049-TM-T156-PBAT_S169_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T230156,2c,iSeq049-TM-T156-PBAT_S169_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T231157,2c,iSeq049-TM-T157-PBAT_S170_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.542,re-sequenced to increase read numbers
+T231157,2c,iSeq049-TM-T157-PBAT_S170_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.542,re-sequenced to increase read numbers
+T232158,2c,iSeq049-TM-T158-PBAT_S171_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.751,re-sequenced to increase read numbers
+T232158,2c,iSeq049-TM-T158-PBAT_S171_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.751,re-sequenced to increase read numbers
+T233159,2c,iSeq049-TM-T159-PBAT_S172_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.795,re-sequenced to increase read numbers
+T233159,2c,iSeq049-TM-T159-PBAT_S172_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.795,re-sequenced to increase read numbers
+T234160,2c,iSeq049-TM-T160-PBAT_S173_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.718,re-sequenced to increase read numbers
+T234160,2c,iSeq049-TM-T160-PBAT_S173_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.718,re-sequenced to increase read numbers
+T235161,2c,iSeq049-TM-T161-PBAT_S174_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.58,re-sequenced to increase read numbers
+T235161,2c,iSeq049-TM-T161-PBAT_S174_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.58,re-sequenced to increase read numbers
+T236162,2c,iSeq049-TM-T162-PBAT_S175_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.135,re-sequenced to increase read numbers
+T236162,2c,iSeq049-TM-T162-PBAT_S175_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.135,re-sequenced to increase read numbers
+T237163,2c,iSeq049-TM-T163-PBAT_S176_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,10.168,re-sequenced to increase read numbers
+T237163,2c,iSeq049-TM-T163-PBAT_S176_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,10.168,re-sequenced to increase read numbers
+T238164,2c,iSeq049-TM-T164-PBAT_S177_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.614,re-sequenced to increase read numbers
+T238164,2c,iSeq049-TM-T164-PBAT_S177_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.614,re-sequenced to increase read numbers
+T239165,2c,iSeq049-TM-T165-PBAT_S178_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.64,re-sequenced to increase read numbers
+T239165,2c,iSeq049-TM-T165-PBAT_S178_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.64,re-sequenced to increase read numbers
+T240166,2c,iSeq049-TM-T166-PBAT_S179_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.078,re-sequenced to increase read numbers
+T240166,2c,iSeq049-TM-T166-PBAT_S179_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.078,re-sequenced to increase read numbers
+T241167,2c,iSeq049-TM-T167-PBAT_S180_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.921,re-sequenced to increase read numbers
+T241167,2c,iSeq049-TM-T167-PBAT_S180_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.921,re-sequenced to increase read numbers
+T242168,2c,iSeq049-TM-T168-PBAT_S181_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.796,re-sequenced to increase read numbers
+T242168,2c,iSeq049-TM-T168-PBAT_S181_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.796,re-sequenced to increase read numbers
+T243169,2c,iSeq049-TM-T169-PBAT_S182_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.395,re-sequenced to increase read numbers
+T243169,2c,iSeq049-TM-T169-PBAT_S182_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.395,re-sequenced to increase read numbers
+T244170,2c,iSeq049-TM-T170-PBAT_S183_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T244170,2c,iSeq049-TM-T170-PBAT_S183_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T245171,2c,iSeq049-TM-T171-PBAT_S184_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.479,re-sequenced to increase read numbers
+T245171,2c,iSeq049-TM-T171-PBAT_S184_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.479,re-sequenced to increase read numbers
+T246172,2c,iSeq049-TM-T172-PBAT_S185_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.161,re-sequenced to increase read numbers
+T246172,2c,iSeq049-TM-T172-PBAT_S185_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.161,re-sequenced to increase read numbers
+T247173,2c,iSeq049-TM-T173-PBAT_S186_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T247173,2c,iSeq049-TM-T173-PBAT_S186_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T248174,2c,iSeq049-TM-T174-PBAT_S187_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.808,re-sequenced to increase read numbers
+T248174,2c,iSeq049-TM-T174-PBAT_S187_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.808,re-sequenced to increase read numbers
+T249175,2c,iSeq049-TM-T175-PBAT_S188_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.29,re-sequenced to increase read numbers
+T249175,2c,iSeq049-TM-T175-PBAT_S188_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.29,re-sequenced to increase read numbers
+T250176,2c,iSeq049-TM-T176-PBAT_S189_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.074,re-sequenced to increase read numbers
+T250176,2c,iSeq049-TM-T176-PBAT_S189_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.074,re-sequenced to increase read numbers
+T251177,2c,iSeq049-TM-T177-PBAT_S190_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.23,re-sequenced to increase read numbers
+T251177,2c,iSeq049-TM-T177-PBAT_S190_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.23,re-sequenced to increase read numbers
+T252178,2c,iSeq049-TM-T178-PBAT_S191_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.485,re-sequenced to increase read numbers
+T252178,2c,iSeq049-TM-T178-PBAT_S191_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.485,re-sequenced to increase read numbers
+T253179,2c,iSeq049-TM-T179-PBAT_S192_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.399,re-sequenced to increase read numbers
+T253179,2c,iSeq049-TM-T179-PBAT_S192_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.399,re-sequenced to increase read numbers
+T254180,2c,iSeq049-TM-T180-PBAT_S193_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.949,re-sequenced to increase read numbers
+T254180,2c,iSeq049-TM-T180-PBAT_S193_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.949,re-sequenced to increase read numbers
+T255181,2c,iSeq049-TM-T181-PBAT_S194_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.19,re-sequenced to increase read numbers
+T255181,2c,iSeq049-TM-T181-PBAT_S194_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.19,re-sequenced to increase read numbers
+T256182,2c,iSeq049-TM-T182-PBAT_S195_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.589,re-sequenced to increase read numbers
+T256182,2c,iSeq049-TM-T182-PBAT_S195_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.589,re-sequenced to increase read numbers
+T257183,2c,iSeq049-TM-T183-PBAT_S196_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.641,re-sequenced to increase read numbers
+T257183,2c,iSeq049-TM-T183-PBAT_S196_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.641,re-sequenced to increase read numbers
+T258184,2c,iSeq049-TM-T184-PBAT_S197_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,5.811,re-sequenced to increase read numbers
+T258184,2c,iSeq049-TM-T184-PBAT_S197_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,5.811,re-sequenced to increase read numbers
+T259185,2c,iSeq049-TM-T185-PBAT_S198_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.042,re-sequenced to increase read numbers
+T259185,2c,iSeq049-TM-T185-PBAT_S198_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.042,re-sequenced to increase read numbers
+T260186,2c,iSeq049-TM-T186-PBAT_S199_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
+T260186,2c,iSeq049-TM-T186-PBAT_S199_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
+T261187,2c,iSeq049-TM-T187-PBAT_S200_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.023,re-sequenced to increase read numbers
+T261187,2c,iSeq049-TM-T187-PBAT_S200_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.023,re-sequenced to increase read numbers
+T262188,2c,iSeq049-TM-T188-PBAT_S201_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.964,re-sequenced to increase read numbers
+T262188,2c,iSeq049-TM-T188-PBAT_S201_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.964,re-sequenced to increase read numbers
+T263189,2c,iSeq049-TM-T189-PBAT_S202_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.857,re-sequenced to increase read numbers
+T263189,2c,iSeq049-TM-T189-PBAT_S202_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.857,re-sequenced to increase read numbers
+T264190,2c,iSeq049-TM-T190-PBAT_S203_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.421,re-sequenced to increase read numbers
+T264190,2c,iSeq049-TM-T190-PBAT_S203_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.421,re-sequenced to increase read numbers
+T265191,2c,iSeq049-TM-T191-PBAT_S204_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.899,re-sequenced to increase read numbers
+T265191,2c,iSeq049-TM-T191-PBAT_S204_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.899,re-sequenced to increase read numbers
+T266192,2c,iSeq049-TM-T192-PBAT_S205_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.658,re-sequenced to increase read numbers
+T266192,2c,iSeq049-TM-T192-PBAT_S205_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.658,re-sequenced to increase read numbers
+T267193,2c,iSeq049-TM-T193-PBAT_S206_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.734,re-sequenced to increase read numbers
+T267193,2c,iSeq049-TM-T193-PBAT_S206_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.734,re-sequenced to increase read numbers
+T268194,2c,iSeq049-TM-T194-PBAT_S207_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.766,re-sequenced to increase read numbers
+T268194,2c,iSeq049-TM-T194-PBAT_S207_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.766,re-sequenced to increase read numbers
+T269195,2c,iSeq049-TM-T195-PBAT_S208_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.982,re-sequenced to increase read numbers
+T269195,2c,iSeq049-TM-T195-PBAT_S208_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.982,re-sequenced to increase read numbers
+T270196,2c,iSeq049-TM-T196-PBAT_S209_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.653,re-sequenced to increase read numbers
+T270196,2c,iSeq049-TM-T196-PBAT_S209_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.653,re-sequenced to increase read numbers
+T271197,2c,iSeq049-TM-T197-PBAT_S210_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.093,re-sequenced to increase read numbers
+T271197,2c,iSeq049-TM-T197-PBAT_S210_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.093,re-sequenced to increase read numbers
+T272198,2c,iSeq049-TM-T198-PBAT_S211_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.174,re-sequenced to increase read numbers
+T272198,2c,iSeq049-TM-T198-PBAT_S211_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.174,re-sequenced to increase read numbers
+T273199,2c,iSeq049-TM-T199-PBAT_S212_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.23,re-sequenced to increase read numbers
+T273199,2c,iSeq049-TM-T199-PBAT_S212_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.23,re-sequenced to increase read numbers
+T274200,2c,iSeq049-TM-T200-PBAT_S213_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.629,re-sequenced to increase read numbers
+T274200,2c,iSeq049-TM-T200-PBAT_S213_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.629,re-sequenced to increase read numbers
+T275201,2c,iSeq049-TM-T201-PBAT_S214_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.438,re-sequenced to increase read numbers
+T275201,2c,iSeq049-TM-T201-PBAT_S214_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.438,re-sequenced to increase read numbers
+T276202,2c,iSeq049-TM-T202-PBAT_S215_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.297,re-sequenced to increase read numbers
+T276202,2c,iSeq049-TM-T202-PBAT_S215_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.297,re-sequenced to increase read numbers
+T277203,2c,iSeq049-TM-T203-PBAT_S216_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.344,re-sequenced to increase read numbers
+T277203,2c,iSeq049-TM-T203-PBAT_S216_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.344,re-sequenced to increase read numbers
+T278204,2c,iSeq049-TM-T204-PBAT_S217_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.924,re-sequenced to increase read numbers
+T278204,2c,iSeq049-TM-T204-PBAT_S217_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.924,re-sequenced to increase read numbers
+T279205,2c,iSeq049-TM-T205-PBAT_S218_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.186,re-sequenced to increase read numbers
+T279205,2c,iSeq049-TM-T205-PBAT_S218_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.186,re-sequenced to increase read numbers
+T280206,2c,iSeq049-TM-T206-PBAT_S219_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.739,re-sequenced to increase read numbers
+T280206,2c,iSeq049-TM-T206-PBAT_S219_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.739,re-sequenced to increase read numbers
+T281207,2c,iSeq049-TM-T207-PBAT_S220_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.295,re-sequenced to increase read numbers
+T281207,2c,iSeq049-TM-T207-PBAT_S220_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.295,re-sequenced to increase read numbers
+T282208,2c,iSeq049-TM-T208-PBAT_S221_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.503,re-sequenced to increase read numbers
+T282208,2c,iSeq049-TM-T208-PBAT_S221_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.503,re-sequenced to increase read numbers
+T283209,2c,iSeq049-TM-T209-PBAT_S222_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.01,re-sequenced to increase read numbers
+T283209,2c,iSeq049-TM-T209-PBAT_S222_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.01,re-sequenced to increase read numbers
+T284210,2c,iSeq049-TM-T210-PBAT_S223_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T284210,2c,iSeq049-TM-T210-PBAT_S223_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T285211,2c,iSeq049-TM-T211-PBAT_S224_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.201,re-sequenced to increase read numbers
+T285211,2c,iSeq049-TM-T211-PBAT_S224_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.201,re-sequenced to increase read numbers
+T286212,2c,iSeq049-TM-T212-PBAT_S225_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
+T286212,2c,iSeq049-TM-T212-PBAT_S225_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
+T213139,2c,iSeq055-TM-reT213-LHamp_S1_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.096,re-sequenced to increase read numbers
+T213139,2c,iSeq055-TM-reT213-LHamp_S1_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.096,re-sequenced to increase read numbers
+T214140,2c,iSeq055-TM-reT214-LHamp_S2_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.416,re-sequenced to increase read numbers
+T214140,2c,iSeq055-TM-reT214-LHamp_S2_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.416,re-sequenced to increase read numbers
+T215141,2c,iSeq055-TM-reT215-LHamp_S3_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.646,re-sequenced to increase read numbers
+T215141,2c,iSeq055-TM-reT215-LHamp_S3_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.646,re-sequenced to increase read numbers
+T216142,2c,iSeq055-TM-reT216-LHamp_S4_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.628,re-sequenced to increase read numbers
+T216142,2c,iSeq055-TM-reT216-LHamp_S4_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.628,re-sequenced to increase read numbers
+T217143,2c,iSeq055-TM-reT217-LHamp_S5_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.318,re-sequenced to increase read numbers
+T217143,2c,iSeq055-TM-reT217-LHamp_S5_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.318,re-sequenced to increase read numbers
+T218144,2c,iSeq055-TM-reT218-LHamp_S6_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.006,re-sequenced to increase read numbers
+T218144,2c,iSeq055-TM-reT218-LHamp_S6_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.006,re-sequenced to increase read numbers
+T219145,2c,iSeq055-TM-reT219-LHamp_S7_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.972,re-sequenced to increase read numbers
+T219145,2c,iSeq055-TM-reT219-LHamp_S7_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,10.972,re-sequenced to increase read numbers
+T220146,2c,iSeq055-TM-reT220-LHamp_S8_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.377,re-sequenced to increase read numbers
+T220146,2c,iSeq055-TM-reT220-LHamp_S8_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.377,re-sequenced to increase read numbers
+T221147,2c,iSeq055-TM-reT221-LHamp_S9_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,6.902,re-sequenced to increase read numbers
+T221147,2c,iSeq055-TM-reT221-LHamp_S9_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,6.902,re-sequenced to increase read numbers
+T222148,2c,iSeq055-TM-reT222-LHamp_S10_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.285,re-sequenced to increase read numbers
+T222148,2c,iSeq055-TM-reT222-LHamp_S10_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,9.285,re-sequenced to increase read numbers
+T223149,2c,iSeq055-TM-reT223-LHamp_S11_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,7.831,re-sequenced to increase read numbers
+T223149,2c,iSeq055-TM-reT223-LHamp_S11_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,7.831,re-sequenced to increase read numbers
+T224150,2c,iSeq055-TM-reT224-LHamp_S12_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,8.879,re-sequenced to increase read numbers
+T224150,2c,iSeq055-TM-reT224-LHamp_S12_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,A,ref.conformity,8.879,re-sequenced to increase read numbers
+T225151,2c,iSeq055-TM-reT225-LHamp_S13_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.439,re-sequenced to increase read numbers
+T225151,2c,iSeq055-TM-reT225-LHamp_S13_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.439,re-sequenced to increase read numbers
+T226152,2c,iSeq055-TM-reT226-LHamp_S14_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.616,re-sequenced to increase read numbers
+T226152,2c,iSeq055-TM-reT226-LHamp_S14_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.616,re-sequenced to increase read numbers
+T227153,2c,iSeq055-TM-reT227-LHamp_S15_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.363,re-sequenced to increase read numbers
+T227153,2c,iSeq055-TM-reT227-LHamp_S15_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.363,re-sequenced to increase read numbers
+T229155,2c,iSeq055-TM-reT229-LHamp_S17_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.947,re-sequenced to increase read numbers
+T229155,2c,iSeq055-TM-reT229-LHamp_S17_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.947,re-sequenced to increase read numbers
+T230156,2c,iSeq055-TM-reT230-LHamp_S18_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T230156,2c,iSeq055-TM-reT230-LHamp_S18_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T231157,2c,iSeq055-TM-reT231-LHamp_S19_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.542,re-sequenced to increase read numbers
+T231157,2c,iSeq055-TM-reT231-LHamp_S19_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.542,re-sequenced to increase read numbers
+T232158,2c,iSeq055-TM-reT232-LHamp_S20_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.751,re-sequenced to increase read numbers
+T232158,2c,iSeq055-TM-reT232-LHamp_S20_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.751,re-sequenced to increase read numbers
+T233159,2c,iSeq055-TM-reT233-LHamp_S21_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.795,re-sequenced to increase read numbers
+T233159,2c,iSeq055-TM-reT233-LHamp_S21_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.795,re-sequenced to increase read numbers
+T234160,2c,iSeq055-TM-reT234-LHamp_S22_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.718,re-sequenced to increase read numbers
+T234160,2c,iSeq055-TM-reT234-LHamp_S22_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.718,re-sequenced to increase read numbers
+T235161,2c,iSeq055-TM-reT235-LHamp_S23_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.58,re-sequenced to increase read numbers
+T235161,2c,iSeq055-TM-reT235-LHamp_S23_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.58,re-sequenced to increase read numbers
+T236162,2c,iSeq055-TM-reT236-LHamp_S24_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.135,re-sequenced to increase read numbers
+T236162,2c,iSeq055-TM-reT236-LHamp_S24_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.135,re-sequenced to increase read numbers
+T237163,2c,iSeq055-TM-reT237-LHamp_S25_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,10.168,re-sequenced to increase read numbers
+T237163,2c,iSeq055-TM-reT237-LHamp_S25_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,10.168,re-sequenced to increase read numbers
+T238164,2c,iSeq055-TM-reT238-LHamp_S26_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.614,re-sequenced to increase read numbers
+T238164,2c,iSeq055-TM-reT238-LHamp_S26_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.614,re-sequenced to increase read numbers
+T239165,2c,iSeq055-TM-reT239-LHamp_S27_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.64,re-sequenced to increase read numbers
+T239165,2c,iSeq055-TM-reT239-LHamp_S27_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.64,re-sequenced to increase read numbers
+T240166,2c,iSeq055-TM-reT240-LHamp_S28_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.078,re-sequenced to increase read numbers
+T240166,2c,iSeq055-TM-reT240-LHamp_S28_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.078,re-sequenced to increase read numbers
+T241167,2c,iSeq055-TM-reT241-LHamp_S29_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.921,re-sequenced to increase read numbers
+T241167,2c,iSeq055-TM-reT241-LHamp_S29_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,8.921,re-sequenced to increase read numbers
+T242168,2c,iSeq055-TM-reT242-LHamp_S30_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.796,re-sequenced to increase read numbers
+T242168,2c,iSeq055-TM-reT242-LHamp_S30_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.796,re-sequenced to increase read numbers
+T243169,2c,iSeq055-TM-reT243-LHamp_S31_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.395,re-sequenced to increase read numbers
+T243169,2c,iSeq055-TM-reT243-LHamp_S31_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,9.395,re-sequenced to increase read numbers
+T244170,2c,iSeq055-TM-reT244-LHamp_S32_L001_R1.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T244170,2c,iSeq055-TM-reT244-LHamp_S32_L001_R2.fastq,45S-M_KO_29dpf_02,Uninjected,29,lh-amp,B,ref.conformity,7.518,re-sequenced to increase read numbers
+T245171,2c,iSeq055-TM-reT245-LHamp_S33_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.479,re-sequenced to increase read numbers
+T245171,2c,iSeq055-TM-reT245-LHamp_S33_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.479,re-sequenced to increase read numbers
+T246172,2c,iSeq055-TM-reT246-LHamp_S34_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.161,re-sequenced to increase read numbers
+T246172,2c,iSeq055-TM-reT246-LHamp_S34_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.161,re-sequenced to increase read numbers
+T247173,2c,iSeq055-TM-reT247-LHamp_S35_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T247173,2c,iSeq055-TM-reT247-LHamp_S35_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T248174,2c,iSeq055-TM-reT248-LHamp_S36_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.808,re-sequenced to increase read numbers
+T248174,2c,iSeq055-TM-reT248-LHamp_S36_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.808,re-sequenced to increase read numbers
+T249175,2c,iSeq055-TM-reT249-LHamp_S37_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.29,re-sequenced to increase read numbers
+T249175,2c,iSeq055-TM-reT249-LHamp_S37_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.29,re-sequenced to increase read numbers
+T250176,2c,iSeq055-TM-reT250-LHamp_S38_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.074,re-sequenced to increase read numbers
+T250176,2c,iSeq055-TM-reT250-LHamp_S38_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.074,re-sequenced to increase read numbers
+T251177,2c,iSeq055-TM-reT251-LHamp_S39_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.23,re-sequenced to increase read numbers
+T251177,2c,iSeq055-TM-reT251-LHamp_S39_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.23,re-sequenced to increase read numbers
+T252178,2c,iSeq055-TM-reT252-LHamp_S40_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.485,re-sequenced to increase read numbers
+T252178,2c,iSeq055-TM-reT252-LHamp_S40_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.485,re-sequenced to increase read numbers
+T253179,2c,iSeq055-TM-reT253-LHamp_S41_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.399,re-sequenced to increase read numbers
+T253179,2c,iSeq055-TM-reT253-LHamp_S41_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.399,re-sequenced to increase read numbers
+T254180,2c,iSeq055-TM-reT254-LHamp_S42_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.949,re-sequenced to increase read numbers
+T254180,2c,iSeq055-TM-reT254-LHamp_S42_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.949,re-sequenced to increase read numbers
+T255181,2c,iSeq055-TM-reT255-LHamp_S43_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.19,re-sequenced to increase read numbers
+T255181,2c,iSeq055-TM-reT255-LHamp_S43_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.19,re-sequenced to increase read numbers
+T256182,2c,iSeq055-TM-reT256-LHamp_S44_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.589,re-sequenced to increase read numbers
+T256182,2c,iSeq055-TM-reT256-LHamp_S44_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.589,re-sequenced to increase read numbers
+T257183,2c,iSeq055-TM-reT257-LHamp_S45_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.641,re-sequenced to increase read numbers
+T257183,2c,iSeq055-TM-reT257-LHamp_S45_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,7.641,re-sequenced to increase read numbers
+T258184,2c,iSeq055-TM-reT258-LHamp_S46_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,5.811,re-sequenced to increase read numbers
+T258184,2c,iSeq055-TM-reT258-LHamp_S46_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,5.811,re-sequenced to increase read numbers
+T259185,2c,iSeq055-TM-reT259-LHamp_S47_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.042,re-sequenced to increase read numbers
+T259185,2c,iSeq055-TM-reT259-LHamp_S47_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.042,re-sequenced to increase read numbers
+T260186,2c,iSeq055-TM-reT260-LHamp_S48_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T260186,2c,iSeq055-TM-reT260-LHamp_S48_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T261187,2c,iSeq055-TM-reT261-LHamp_S49_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.023,re-sequenced to increase read numbers
+T261187,2c,iSeq055-TM-reT261-LHamp_S49_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.023,re-sequenced to increase read numbers
+T262188,2c,iSeq055-TM-reT262-LHamp_S50_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.964,re-sequenced to increase read numbers
+T262188,2c,iSeq055-TM-reT262-LHamp_S50_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.964,re-sequenced to increase read numbers
+T263189,2c,iSeq055-TM-reT263-LHamp_S51_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.857,re-sequenced to increase read numbers
+T263189,2c,iSeq055-TM-reT263-LHamp_S51_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.857,re-sequenced to increase read numbers
+T264190,2c,iSeq055-TM-reT264-LHamp_S52_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.421,re-sequenced to increase read numbers
+T264190,2c,iSeq055-TM-reT264-LHamp_S52_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.421,re-sequenced to increase read numbers
+T265191,2c,iSeq055-TM-reT265-LHamp_S53_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.899,re-sequenced to increase read numbers
+T265191,2c,iSeq055-TM-reT265-LHamp_S53_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.899,re-sequenced to increase read numbers
+T266192,2c,iSeq055-TM-reT266-LHamp_S54_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.658,re-sequenced to increase read numbers
+T266192,2c,iSeq055-TM-reT266-LHamp_S54_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.658,re-sequenced to increase read numbers
+T267193,2c,iSeq055-TM-reT267-LHamp_S55_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.734,re-sequenced to increase read numbers
+T267193,2c,iSeq055-TM-reT267-LHamp_S55_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.734,re-sequenced to increase read numbers
+T268194,2c,iSeq055-TM-reT268-LHamp_S56_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.766,re-sequenced to increase read numbers
+T268194,2c,iSeq055-TM-reT268-LHamp_S56_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.766,re-sequenced to increase read numbers
+T269195,2c,iSeq055-TM-reT269-LHamp_S57_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.982,re-sequenced to increase read numbers
+T269195,2c,iSeq055-TM-reT269-LHamp_S57_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.982,re-sequenced to increase read numbers
+T270196,2c,iSeq055-TM-reT270-LHamp_S58_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.653,re-sequenced to increase read numbers
+T270196,2c,iSeq055-TM-reT270-LHamp_S58_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,9.653,re-sequenced to increase read numbers
+T271197,2c,iSeq055-TM-reT271-LHamp_S59_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.093,re-sequenced to increase read numbers
+T271197,2c,iSeq055-TM-reT271-LHamp_S59_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,8.093,re-sequenced to increase read numbers
+T272198,2c,iSeq055-TM-reT272-LHamp_S60_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.174,re-sequenced to increase read numbers
+T272198,2c,iSeq055-TM-reT272-LHamp_S60_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,10.174,re-sequenced to increase read numbers
+T273199,2c,iSeq055-TM-reT273-LHamp_S61_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.23,re-sequenced to increase read numbers
+T273199,2c,iSeq055-TM-reT273-LHamp_S61_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.23,re-sequenced to increase read numbers
+T274200,2c,iSeq055-TM-reT274-LHamp_S62_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.629,re-sequenced to increase read numbers
+T274200,2c,iSeq055-TM-reT274-LHamp_S62_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,lh-amp,A,ref.conformity,7.629,re-sequenced to increase read numbers
+T275201,2c,iSeq055-TM-reT275-LHamp_S63_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.438,re-sequenced to increase read numbers
+T275201,2c,iSeq055-TM-reT275-LHamp_S63_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,6.438,re-sequenced to increase read numbers
+T276202,2c,iSeq055-TM-reT276-LHamp_S64_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.297,re-sequenced to increase read numbers
+T276202,2c,iSeq055-TM-reT276-LHamp_S64_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.297,re-sequenced to increase read numbers
+T277203,2c,iSeq055-TM-reT277-LHamp_S65_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.344,re-sequenced to increase read numbers
+T277203,2c,iSeq055-TM-reT277-LHamp_S65_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.344,re-sequenced to increase read numbers
+T278204,2c,iSeq055-TM-reT278-LHamp_S66_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.924,re-sequenced to increase read numbers
+T278204,2c,iSeq055-TM-reT278-LHamp_S66_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.924,re-sequenced to increase read numbers
+T279205,2c,iSeq055-TM-reT279-LHamp_S67_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.186,re-sequenced to increase read numbers
+T279205,2c,iSeq055-TM-reT279-LHamp_S67_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.186,re-sequenced to increase read numbers
+T280206,2c,iSeq055-TM-reT280-LHamp_S68_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.739,re-sequenced to increase read numbers
+T280206,2c,iSeq055-TM-reT280-LHamp_S68_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.739,re-sequenced to increase read numbers
+T281207,2c,iSeq055-TM-reT281-LHamp_S69_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.295,re-sequenced to increase read numbers
+T281207,2c,iSeq055-TM-reT281-LHamp_S69_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.295,re-sequenced to increase read numbers
+T282208,2c,iSeq055-TM-reT282-LHamp_S70_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.503,re-sequenced to increase read numbers
+T282208,2c,iSeq055-TM-reT282-LHamp_S70_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.503,re-sequenced to increase read numbers
+T283209,2c,iSeq055-TM-reT283-LHamp_S71_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.01,re-sequenced to increase read numbers
+T283209,2c,iSeq055-TM-reT283-LHamp_S71_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.01,re-sequenced to increase read numbers
+T284210,2c,iSeq055-TM-reT284-LHamp_S72_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T284210,2c,iSeq055-TM-reT284-LHamp_S72_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,8.127,re-sequenced to increase read numbers
+T285211,2c,iSeq055-TM-reT285-LHamp_S73_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.201,re-sequenced to increase read numbers
+T285211,2c,iSeq055-TM-reT285-LHamp_S73_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,10.201,re-sequenced to increase read numbers
+T286212,2c,iSeq055-TM-reT286-LHamp_S74_L001_R1.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T286212,2c,iSeq055-TM-reT286-LHamp_S74_L001_R2.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,lh-amp,B,ref.conformity,9.203,re-sequenced to increase read numbers
+T213139,2c,iSeq058re49-TM-T139-PBAT_S1_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.096,re-sequenced to increase read numbers
+T213139,2c,iSeq058re49-TM-T139-PBAT_S1_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.096,re-sequenced to increase read numbers
+T214140,2c,iSeq058re49-TM-T140-PBAT_S2_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.416,re-sequenced to increase read numbers
+T214140,2c,iSeq058re49-TM-T140-PBAT_S2_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.416,re-sequenced to increase read numbers
+T215141,2c,iSeq058re49-TM-T141-PBAT_S3_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.646,re-sequenced to increase read numbers
+T215141,2c,iSeq058re49-TM-T141-PBAT_S3_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.646,re-sequenced to increase read numbers
+T216142,2c,iSeq058re49-TM-T142-PBAT_S4_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.628,re-sequenced to increase read numbers
+T216142,2c,iSeq058re49-TM-T142-PBAT_S4_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.628,re-sequenced to increase read numbers
+T217143,2c,iSeq058re49-TM-T143-PBAT_S5_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.318,re-sequenced to increase read numbers
+T217143,2c,iSeq058re49-TM-T143-PBAT_S5_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.318,re-sequenced to increase read numbers
+T218144,2c,iSeq058re49-TM-T144-PBAT_S6_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.006,re-sequenced to increase read numbers
+T218144,2c,iSeq058re49-TM-T144-PBAT_S6_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.006,re-sequenced to increase read numbers
+T219145,2c,iSeq058re49-TM-T145-PBAT_S7_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.972,re-sequenced to increase read numbers
+T219145,2c,iSeq058re49-TM-T145-PBAT_S7_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,10.972,re-sequenced to increase read numbers
+T220146,2c,iSeq058re49-TM-T146-PBAT_S8_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.377,re-sequenced to increase read numbers
+T220146,2c,iSeq058re49-TM-T146-PBAT_S8_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.377,re-sequenced to increase read numbers
+T221147,2c,iSeq058re49-TM-T147-PBAT_S9_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,6.902,re-sequenced to increase read numbers
+T221147,2c,iSeq058re49-TM-T147-PBAT_S9_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,6.902,re-sequenced to increase read numbers
+T222148,2c,iSeq058re49-TM-T148-PBAT_S10_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.285,re-sequenced to increase read numbers
+T222148,2c,iSeq058re49-TM-T148-PBAT_S10_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,9.285,re-sequenced to increase read numbers
+T223149,2c,iSeq058re49-TM-T149-PBAT_S11_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,7.831,re-sequenced to increase read numbers
+T223149,2c,iSeq058re49-TM-T149-PBAT_S11_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,7.831,re-sequenced to increase read numbers
+T224150,2c,iSeq058re49-TM-T150-PBAT_S12_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,8.879,re-sequenced to increase read numbers
+T224150,2c,iSeq058re49-TM-T150-PBAT_S12_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,A,femaleness,8.879,re-sequenced to increase read numbers
+T225151,2c,iSeq058re49-TM-T151-PBAT_S13_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.439,re-sequenced to increase read numbers
+T225151,2c,iSeq058re49-TM-T151-PBAT_S13_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.439,re-sequenced to increase read numbers
+T226152,2c,iSeq058re49-TM-T152-PBAT_S14_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.616,re-sequenced to increase read numbers
+T226152,2c,iSeq058re49-TM-T152-PBAT_S14_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.616,re-sequenced to increase read numbers
+T227153,2c,iSeq058re49-TM-T153-PBAT_S15_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.363,re-sequenced to increase read numbers
+T227153,2c,iSeq058re49-TM-T153-PBAT_S15_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.363,re-sequenced to increase read numbers
+T229155,2c,iSeq058re49-TM-T155-PBAT_S17_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.947,re-sequenced to increase read numbers
+T229155,2c,iSeq058re49-TM-T155-PBAT_S17_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.947,re-sequenced to increase read numbers
+T230156,2c,iSeq058re49-TM-T156-PBAT_S18_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T230156,2c,iSeq058re49-TM-T156-PBAT_S18_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T231157,2c,iSeq058re49-TM-T157-PBAT_S19_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.542,re-sequenced to increase read numbers
+T231157,2c,iSeq058re49-TM-T157-PBAT_S19_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.542,re-sequenced to increase read numbers
+T232158,2c,iSeq058re49-TM-T158-PBAT_S20_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.751,re-sequenced to increase read numbers
+T232158,2c,iSeq058re49-TM-T158-PBAT_S20_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.751,re-sequenced to increase read numbers
+T233159,2c,iSeq058re49-TM-T159-PBAT_S21_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.795,re-sequenced to increase read numbers
+T233159,2c,iSeq058re49-TM-T159-PBAT_S21_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.795,re-sequenced to increase read numbers
+T234160,2c,iSeq058re49-TM-T160-PBAT_S22_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.718,re-sequenced to increase read numbers
+T234160,2c,iSeq058re49-TM-T160-PBAT_S22_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.718,re-sequenced to increase read numbers
+T235161,2c,iSeq058re49-TM-T161-PBAT_S23_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.58,re-sequenced to increase read numbers
+T235161,2c,iSeq058re49-TM-T161-PBAT_S23_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.58,re-sequenced to increase read numbers
+T236162,2c,iSeq058re49-TM-T162-PBAT_S24_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.135,re-sequenced to increase read numbers
+T236162,2c,iSeq058re49-TM-T162-PBAT_S24_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.135,re-sequenced to increase read numbers
+T237163,2c,iSeq058re49-TM-T163-PBAT_S25_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,10.168,re-sequenced to increase read numbers
+T237163,2c,iSeq058re49-TM-T163-PBAT_S25_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,10.168,re-sequenced to increase read numbers
+T238164,2c,iSeq058re49-TM-T164-PBAT_S26_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.614,re-sequenced to increase read numbers
+T238164,2c,iSeq058re49-TM-T164-PBAT_S26_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.614,re-sequenced to increase read numbers
+T239165,2c,iSeq058re49-TM-T165-PBAT_S27_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.64,re-sequenced to increase read numbers
+T239165,2c,iSeq058re49-TM-T165-PBAT_S27_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.64,re-sequenced to increase read numbers
+T240166,2c,iSeq058re49-TM-T166-PBAT_S28_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.078,re-sequenced to increase read numbers
+T240166,2c,iSeq058re49-TM-T166-PBAT_S28_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.078,re-sequenced to increase read numbers
+T241167,2c,iSeq058re49-TM-T167-PBAT_S29_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.921,re-sequenced to increase read numbers
+T241167,2c,iSeq058re49-TM-T167-PBAT_S29_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,8.921,re-sequenced to increase read numbers
+T242168,2c,iSeq058re49-TM-T168-PBAT_S30_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.796,re-sequenced to increase read numbers
+T242168,2c,iSeq058re49-TM-T168-PBAT_S30_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.796,re-sequenced to increase read numbers
+T243169,2c,iSeq058re49-TM-T169-PBAT_S31_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.395,re-sequenced to increase read numbers
+T243169,2c,iSeq058re49-TM-T169-PBAT_S31_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,9.395,re-sequenced to increase read numbers
+T244170,2c,iSeq058re49-TM-T170-PBAT_S32_L001_R1_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T244170,2c,iSeq058re49-TM-T170-PBAT_S32_L001_R2_001.fastq,45S-M_KO_29dpf_02,Uninjected,29,PBAT,B,femaleness,7.518,re-sequenced to increase read numbers
+T245171,2c,iSeq058re49-TM-T171-PBAT_S33_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.479,re-sequenced to increase read numbers
+T245171,2c,iSeq058re49-TM-T171-PBAT_S33_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.479,re-sequenced to increase read numbers
+T246172,2c,iSeq058re49-TM-T172-PBAT_S34_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.161,re-sequenced to increase read numbers
+T246172,2c,iSeq058re49-TM-T172-PBAT_S34_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.161,re-sequenced to increase read numbers
+T247173,2c,iSeq058re49-TM-T173-PBAT_S35_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T247173,2c,iSeq058re49-TM-T173-PBAT_S35_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T248174,2c,iSeq058re49-TM-T174-PBAT_S36_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.808,re-sequenced to increase read numbers
+T248174,2c,iSeq058re49-TM-T174-PBAT_S36_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.808,re-sequenced to increase read numbers
+T249175,2c,iSeq058re49-TM-T175-PBAT_S37_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.29,re-sequenced to increase read numbers
+T249175,2c,iSeq058re49-TM-T175-PBAT_S37_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.29,re-sequenced to increase read numbers
+T250176,2c,iSeq058re49-TM-T176-PBAT_S38_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.074,re-sequenced to increase read numbers
+T250176,2c,iSeq058re49-TM-T176-PBAT_S38_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.074,re-sequenced to increase read numbers
+T251177,2c,iSeq058re49-TM-T177-PBAT_S39_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.23,re-sequenced to increase read numbers
+T251177,2c,iSeq058re49-TM-T177-PBAT_S39_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.23,re-sequenced to increase read numbers
+T252178,2c,iSeq058re49-TM-T178-PBAT_S40_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.485,re-sequenced to increase read numbers
+T252178,2c,iSeq058re49-TM-T178-PBAT_S40_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.485,re-sequenced to increase read numbers
+T253179,2c,iSeq058re49-TM-T179-PBAT_S41_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.399,re-sequenced to increase read numbers
+T253179,2c,iSeq058re49-TM-T179-PBAT_S41_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.399,re-sequenced to increase read numbers
+T254180,2c,iSeq058re49-TM-T180-PBAT_S42_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.949,re-sequenced to increase read numbers
+T254180,2c,iSeq058re49-TM-T180-PBAT_S42_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.949,re-sequenced to increase read numbers
+T255181,2c,iSeq058re49-TM-T181-PBAT_S43_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.19,re-sequenced to increase read numbers
+T255181,2c,iSeq058re49-TM-T181-PBAT_S43_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.19,re-sequenced to increase read numbers
+T256182,2c,iSeq058re49-TM-T182-PBAT_S44_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.589,re-sequenced to increase read numbers
+T256182,2c,iSeq058re49-TM-T182-PBAT_S44_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.589,re-sequenced to increase read numbers
+T257183,2c,iSeq058re49-TM-T183-PBAT_S45_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.641,re-sequenced to increase read numbers
+T257183,2c,iSeq058re49-TM-T183-PBAT_S45_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,7.641,re-sequenced to increase read numbers
+T258184,2c,iSeq058re49-TM-T184-PBAT_S46_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,5.811,re-sequenced to increase read numbers
+T258184,2c,iSeq058re49-TM-T184-PBAT_S46_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,5.811,re-sequenced to increase read numbers
+T259185,2c,iSeq058re49-TM-T185-PBAT_S47_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.042,re-sequenced to increase read numbers
+T259185,2c,iSeq058re49-TM-T185-PBAT_S47_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.042,re-sequenced to increase read numbers
+T260186,2c,iSeq058re49-TM-T186-PBAT_S48_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
+T260186,2c,iSeq058re49-TM-T186-PBAT_S48_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
+T261187,2c,iSeq058re49-TM-T187-PBAT_S49_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.023,re-sequenced to increase read numbers
+T261187,2c,iSeq058re49-TM-T187-PBAT_S49_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.023,re-sequenced to increase read numbers
+T262188,2c,iSeq058re49-TM-T188-PBAT_S50_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.964,re-sequenced to increase read numbers
+T262188,2c,iSeq058re49-TM-T188-PBAT_S50_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.964,re-sequenced to increase read numbers
+T263189,2c,iSeq058re49-TM-T189-PBAT_S51_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.857,re-sequenced to increase read numbers
+T263189,2c,iSeq058re49-TM-T189-PBAT_S51_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.857,re-sequenced to increase read numbers
+T264190,2c,iSeq058re49-TM-T190-PBAT_S52_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.421,re-sequenced to increase read numbers
+T264190,2c,iSeq058re49-TM-T190-PBAT_S52_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.421,re-sequenced to increase read numbers
+T265191,2c,iSeq058re49-TM-T191-PBAT_S53_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.899,re-sequenced to increase read numbers
+T265191,2c,iSeq058re49-TM-T191-PBAT_S53_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.899,re-sequenced to increase read numbers
+T266192,2c,iSeq058re49-TM-T192-PBAT_S54_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.658,re-sequenced to increase read numbers
+T266192,2c,iSeq058re49-TM-T192-PBAT_S54_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.658,re-sequenced to increase read numbers
+T267193,2c,iSeq058re49-TM-T193-PBAT_S55_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.734,re-sequenced to increase read numbers
+T267193,2c,iSeq058re49-TM-T193-PBAT_S55_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.734,re-sequenced to increase read numbers
+T268194,2c,iSeq058re49-TM-T194-PBAT_S56_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.766,re-sequenced to increase read numbers
+T268194,2c,iSeq058re49-TM-T194-PBAT_S56_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.766,re-sequenced to increase read numbers
+T269195,2c,iSeq058re49-TM-T195-PBAT_S57_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.982,re-sequenced to increase read numbers
+T269195,2c,iSeq058re49-TM-T195-PBAT_S57_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.982,re-sequenced to increase read numbers
+T270196,2c,iSeq058re49-TM-T196-PBAT_S58_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.653,re-sequenced to increase read numbers
+T270196,2c,iSeq058re49-TM-T196-PBAT_S58_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,9.653,re-sequenced to increase read numbers
+T271197,2c,iSeq058re49-TM-T197-PBAT_S59_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.093,re-sequenced to increase read numbers
+T271197,2c,iSeq058re49-TM-T197-PBAT_S59_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,8.093,re-sequenced to increase read numbers
+T272198,2c,iSeq058re49-TM-T198-PBAT_S60_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.174,re-sequenced to increase read numbers
+T272198,2c,iSeq058re49-TM-T198-PBAT_S60_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,10.174,re-sequenced to increase read numbers
+T273199,2c,iSeq058re49-TM-T199-PBAT_S61_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.23,re-sequenced to increase read numbers
+T273199,2c,iSeq058re49-TM-T199-PBAT_S61_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.23,re-sequenced to increase read numbers
+T274200,2c,iSeq058re49-TM-T200-PBAT_S62_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.629,re-sequenced to increase read numbers
+T274200,2c,iSeq058re49-TM-T200-PBAT_S62_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (1 guide targeting GFP),29,PBAT,A,femaleness,7.629,re-sequenced to increase read numbers
+T275201,2c,iSeq058re49-TM-T201-PBAT_S63_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.438,re-sequenced to increase read numbers
+T275201,2c,iSeq058re49-TM-T201-PBAT_S63_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,6.438,re-sequenced to increase read numbers
+T276202,2c,iSeq058re49-TM-T202-PBAT_S64_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.297,re-sequenced to increase read numbers
+T276202,2c,iSeq058re49-TM-T202-PBAT_S64_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.297,re-sequenced to increase read numbers
+T277203,2c,iSeq058re49-TM-T203-PBAT_S65_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.344,re-sequenced to increase read numbers
+T277203,2c,iSeq058re49-TM-T203-PBAT_S65_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.344,re-sequenced to increase read numbers
+T278204,2c,iSeq058re49-TM-T204-PBAT_S66_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.924,re-sequenced to increase read numbers
+T278204,2c,iSeq058re49-TM-T204-PBAT_S66_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.924,re-sequenced to increase read numbers
+T279205,2c,iSeq058re49-TM-T205-PBAT_S67_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.186,re-sequenced to increase read numbers
+T279205,2c,iSeq058re49-TM-T205-PBAT_S67_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.186,re-sequenced to increase read numbers
+T280206,2c,iSeq058re49-TM-T206-PBAT_S68_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.739,re-sequenced to increase read numbers
+T280206,2c,iSeq058re49-TM-T206-PBAT_S68_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.739,re-sequenced to increase read numbers
+T281207,2c,iSeq058re49-TM-T207-PBAT_S69_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.295,re-sequenced to increase read numbers
+T281207,2c,iSeq058re49-TM-T207-PBAT_S69_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.295,re-sequenced to increase read numbers
+T282208,2c,iSeq058re49-TM-T208-PBAT_S70_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.503,re-sequenced to increase read numbers
+T282208,2c,iSeq058re49-TM-T208-PBAT_S70_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.503,re-sequenced to increase read numbers
+T283209,2c,iSeq058re49-TM-T209-PBAT_S71_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.01,re-sequenced to increase read numbers
+T283209,2c,iSeq058re49-TM-T209-PBAT_S71_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.01,re-sequenced to increase read numbers
+T284210,2c,iSeq058re49-TM-T210-PBAT_S72_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T284210,2c,iSeq058re49-TM-T210-PBAT_S72_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,8.127,re-sequenced to increase read numbers
+T285211,2c,iSeq058re49-TM-T211-PBAT_S73_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.201,re-sequenced to increase read numbers
+T285211,2c,iSeq058re49-TM-T211-PBAT_S73_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,10.201,re-sequenced to increase read numbers
+T286212,2c,iSeq058re49-TM-T212-PBAT_S74_L001_R1_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
+T286212,2c,iSeq058re49-TM-T212-PBAT_S74_L001_R2_001.fastq,45S-M_KO_29dpf_02,cas9-guide RNP (3 guides targeting 45S-M promoter),29,PBAT,B,femaleness,9.203,re-sequenced to increase read numbers
