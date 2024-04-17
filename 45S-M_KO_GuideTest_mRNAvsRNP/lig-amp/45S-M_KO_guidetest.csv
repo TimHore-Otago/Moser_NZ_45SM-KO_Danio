@@ -1,0 +1,49 @@
+﻿Individual,Experiment,figure,filename,treatment
+RNA01,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-01_S17_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA01,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-01_S17_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNA02,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-02_S18_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA02,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-02_S18_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNA03,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-03_S19_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA03,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-03_S19_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNA04,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-04_S20_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA04,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-04_S20_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNA05,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-05_S21_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA05,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-05_S21_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNA06,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-06_S22_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA06,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-06_S22_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNA07,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-07_S23_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA07,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-07_S23_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNA08,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-08_S24_L001_R1_001.fastq,cas9 -mRNA + 3 guides
+RNA08,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-mRNA-08_S24_L001_R2_001.fastq,cas9 -mRNA + 3 guides
+RNP01,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-01_S5_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP01,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-01_S5_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP02,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-02_S6_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP02,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-02_S6_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP03,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-03_S7_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP03,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-03_S7_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP04,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-04_S8_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP04,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-04_S8_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP05,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-05_S9_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP05,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-05_S9_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP06,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-06_S10_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP06,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-06_S10_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP07,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-07_S11_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP07,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-07_S11_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP08,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-08_S12_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP08,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-08_S12_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP09,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-09_S13_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP09,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-09_S13_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP10,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-10_S14_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP10,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-10_S14_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP11,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-11_S15_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP11,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-11_S15_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+RNP12,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-12_S16_L001_R1_001.fastq,cas9-guide RNP (3 guides)
+RNP12,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-RNP-12_S16_L001_R2_001.fastq,cas9-guide RNP (3 guides)
+Uni01,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-01_S1_L001_R1_001.fastq,uninjected
+Uni01,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-01_S1_L001_R2_001.fastq,uninjected
+Uni02,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-02_S2_L001_R1_001.fastq,uninjected
+Uni02,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-02_S2_L001_R2_001.fastq,uninjected
+Uni03,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-03_S3_L001_R1_001.fastq,uninjected
+Uni03,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-03_S3_L001_R2_001.fastq,uninjected
+Uni04,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-04_S4_L001_R1_001.fastq,uninjected
+Uni04,mRNA vs RNP editing efficiency assesment,1b,iSeq037-TM-ZF-AB-UNI-04_S4_L001_R2_001.fastq,uninjected
