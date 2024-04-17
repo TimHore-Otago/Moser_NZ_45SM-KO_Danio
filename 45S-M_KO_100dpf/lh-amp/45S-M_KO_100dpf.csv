@@ -1,0 +1,181 @@
+﻿Individual,figure,filename,Experiment,treatment,dpf,protocol,clutch,sample purpose
+Uni_C1,3,iSeq048-TM-LHamp-136-cREG1-100-100d_S235_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C1,3,iSeq048-TM-LHamp-136-cREG1-100-100d_S235_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C2,3,iSeq048-TM-LHamp-137-cREG1-100-100d_S236_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C2,3,iSeq048-TM-LHamp-137-cREG1-100-100d_S236_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C3,3,iSeq048-TM-LHamp-138-cREG1-100-100d_S237_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C3,3,iSeq048-TM-LHamp-138-cREG1-100-100d_S237_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C4,3,iSeq048-TM-LHamp-139-cREG1-100-100d_S238_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C4,3,iSeq048-TM-LHamp-139-cREG1-100-100d_S238_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C5,3,iSeq048-TM-LHamp-140-cREG1-100-100d_S239_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C5,3,iSeq048-TM-LHamp-140-cREG1-100-100d_S239_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C6,3,iSeq048-TM-LHamp-141-cREG1-100-100d_S240_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C6,3,iSeq048-TM-LHamp-141-cREG1-100-100d_S240_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C7,3,iSeq048-TM-LHamp-142-cREG1-100-100d_S241_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C7,3,iSeq048-TM-LHamp-142-cREG1-100-100d_S241_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C8,3,iSeq048-TM-LHamp-143-cREG1-100-100d_S242_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C8,3,iSeq048-TM-LHamp-143-cREG1-100-100d_S242_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C9,3,iSeq048-TM-LHamp-144-cREG1-100-100d_S243_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C9,3,iSeq048-TM-LHamp-144-cREG1-100-100d_S243_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C10,3,iSeq048-TM-LHamp-145-cREG1-100-100d_S244_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C10,3,iSeq048-TM-LHamp-145-cREG1-100-100d_S244_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C11,3,iSeq048-TM-LHamp-146-cREG1-100-100d_S245_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C11,3,iSeq048-TM-LHamp-146-cREG1-100-100d_S245_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C12,3,iSeq048-TM-LHamp-147-cREG1-100-100d_S246_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C12,3,iSeq048-TM-LHamp-147-cREG1-100-100d_S246_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C13,3,iSeq048-TM-LHamp-148-cREG1-100-100d_S247_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C13,3,iSeq048-TM-LHamp-148-cREG1-100-100d_S247_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C14,3,iSeq048-TM-LHamp-149-cREG1-100-100d_S248_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+Uni_C14,3,iSeq048-TM-LHamp-149-cREG1-100-100d_S248_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,C,ref.conformity
+KO_B1,3,iSeq048-TM-LHamp-150-cREG1-100-100d_S249_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B1,3,iSeq048-TM-LHamp-150-cREG1-100-100d_S249_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B2,3,iSeq048-TM-LHamp-151-cREG1-100-100d_S250_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B2,3,iSeq048-TM-LHamp-151-cREG1-100-100d_S250_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B3,3,iSeq048-TM-LHamp-152-cREG1-100-100d_S251_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B3,3,iSeq048-TM-LHamp-152-cREG1-100-100d_S251_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B4,3,iSeq048-TM-LHamp-153-cREG1-100-100d_S252_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B4,3,iSeq048-TM-LHamp-153-cREG1-100-100d_S252_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B5,3,iSeq048-TM-LHamp-154-cREG1-100-100d_S253_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B5,3,iSeq048-TM-LHamp-154-cREG1-100-100d_S253_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B6,3,iSeq048-TM-LHamp-155-cREG1-100-100d_S254_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B6,3,iSeq048-TM-LHamp-155-cREG1-100-100d_S254_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B7,3,iSeq048-TM-LHamp-156-cREG1-100-100d_S255_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B7,3,iSeq048-TM-LHamp-156-cREG1-100-100d_S255_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B8,3,iSeq048-TM-LHamp-157-cREG1-100-100d_S256_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B8,3,iSeq048-TM-LHamp-157-cREG1-100-100d_S256_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B9,3,iSeq048-TM-LHamp-158-cREG1-100-100d_S257_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B9,3,iSeq048-TM-LHamp-158-cREG1-100-100d_S257_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B10,3,iSeq048-TM-LHamp-159-cREG1-100-100d_S258_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B10,3,iSeq048-TM-LHamp-159-cREG1-100-100d_S258_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B11,3,iSeq048-TM-LHamp-160-cREG1-100-100d_S259_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B11,3,iSeq048-TM-LHamp-160-cREG1-100-100d_S259_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B12,3,iSeq048-TM-LHamp-161-cREG1-100-100d_S260_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B12,3,iSeq048-TM-LHamp-161-cREG1-100-100d_S260_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B13,3,iSeq048-TM-LHamp-162-cREG1-100-100d_S261_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B13,3,iSeq048-TM-LHamp-162-cREG1-100-100d_S261_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B14,3,iSeq048-TM-LHamp-163-cREG1-100-100d_S262_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B14,3,iSeq048-TM-LHamp-163-cREG1-100-100d_S262_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B15,3,iSeq048-TM-LHamp-164-cREG1-100-100d_S263_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B15,3,iSeq048-TM-LHamp-164-cREG1-100-100d_S263_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B16,3,iSeq048-TM-LHamp-165-cREG1-100-100d_S264_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+KO_B16,3,iSeq048-TM-LHamp-165-cREG1-100-100d_S264_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,B,ref.conformity
+Uni_A1,3,iSeq048-TM-LHamp-166-cREG1-100-100d_S265_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A1,3,iSeq048-TM-LHamp-166-cREG1-100-100d_S265_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A2,3,iSeq048-TM-LHamp-167-cREG1-100-100d_S266_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A2,3,iSeq048-TM-LHamp-167-cREG1-100-100d_S266_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A3,3,iSeq048-TM-LHamp-168-cREG1-100-100d_S267_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A3,3,iSeq048-TM-LHamp-168-cREG1-100-100d_S267_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A4,3,iSeq048-TM-LHamp-169-cREG1-100-100d_S268_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A4,3,iSeq048-TM-LHamp-169-cREG1-100-100d_S268_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A5,3,iSeq048-TM-LHamp-170-cREG1-100-100d_S269_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A5,3,iSeq048-TM-LHamp-170-cREG1-100-100d_S269_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A6,3,iSeq048-TM-LHamp-171-cREG1-100-100d_S270_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A6,3,iSeq048-TM-LHamp-171-cREG1-100-100d_S270_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A7,3,iSeq048-TM-LHamp-172-cREG1-100-100d_S271_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A7,3,iSeq048-TM-LHamp-172-cREG1-100-100d_S271_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A8,3,iSeq048-TM-LHamp-173-cREG1-100-100d_S272_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A8,3,iSeq048-TM-LHamp-173-cREG1-100-100d_S272_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A9,3,iSeq048-TM-LHamp-174-cREG1-100-100d_S273_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A9,3,iSeq048-TM-LHamp-174-cREG1-100-100d_S273_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A10,3,iSeq048-TM-LHamp-175-cREG1-100-100d_S274_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A10,3,iSeq048-TM-LHamp-175-cREG1-100-100d_S274_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A11,3,iSeq048-TM-LHamp-176-cREG1-100-100d_S275_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A11,3,iSeq048-TM-LHamp-176-cREG1-100-100d_S275_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A12,3,iSeq048-TM-LHamp-177-cREG1-100-100d_S276_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A12,3,iSeq048-TM-LHamp-177-cREG1-100-100d_S276_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A13,3,iSeq048-TM-LHamp-178-cREG1-100-100d_S277_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A13,3,iSeq048-TM-LHamp-178-cREG1-100-100d_S277_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A14,3,iSeq048-TM-LHamp-179-cREG1-100-100d_S278_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A14,3,iSeq048-TM-LHamp-179-cREG1-100-100d_S278_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A15,3,iSeq048-TM-LHamp-180-cREG1-100-100d_S279_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A15,3,iSeq048-TM-LHamp-180-cREG1-100-100d_S279_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A16,3,iSeq048-TM-LHamp-181-cREG1-100-100d_S280_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+Uni_A16,3,iSeq048-TM-LHamp-181-cREG1-100-100d_S280_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,A,ref.conformity
+KO_A1,3,iSeq048-TM-LHamp-182-cREG1-100-100d_S281_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A1,3,iSeq048-TM-LHamp-182-cREG1-100-100d_S281_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A2,3,iSeq048-TM-LHamp-183-cREG1-100-100d_S282_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A2,3,iSeq048-TM-LHamp-183-cREG1-100-100d_S282_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A3,3,iSeq048-TM-LHamp-184-cREG1-100-100d_S283_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A3,3,iSeq048-TM-LHamp-184-cREG1-100-100d_S283_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A4,3,iSeq048-TM-LHamp-185-cREG1-100-100d_S284_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A4,3,iSeq048-TM-LHamp-185-cREG1-100-100d_S284_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A5,3,iSeq048-TM-LHamp-186-cREG1-100-100d_S285_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A5,3,iSeq048-TM-LHamp-186-cREG1-100-100d_S285_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A6,3,iSeq048-TM-LHamp-187-cREG1-100-100d_S286_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A6,3,iSeq048-TM-LHamp-187-cREG1-100-100d_S286_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A7,3,iSeq048-TM-LHamp-188-cREG1-100-100d_S287_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A7,3,iSeq048-TM-LHamp-188-cREG1-100-100d_S287_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A8,3,iSeq048-TM-LHamp-189-cREG1-100-100d_S288_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A8,3,iSeq048-TM-LHamp-189-cREG1-100-100d_S288_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A9,3,iSeq048-TM-LHamp-190-cREG1-100-100d_S289_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A9,3,iSeq048-TM-LHamp-190-cREG1-100-100d_S289_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A10,3,iSeq048-TM-LHamp-191-cREG1-100-100d_S290_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A10,3,iSeq048-TM-LHamp-191-cREG1-100-100d_S290_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A11,3,iSeq048-TM-LHamp-192-cREG1-100-100d_S291_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A11,3,iSeq048-TM-LHamp-192-cREG1-100-100d_S291_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A12,3,iSeq048-TM-LHamp-193-cREG1-100-100d_S292_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A12,3,iSeq048-TM-LHamp-193-cREG1-100-100d_S292_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A13,3,iSeq048-TM-LHamp-194-cREG1-100-100d_S293_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A13,3,iSeq048-TM-LHamp-194-cREG1-100-100d_S293_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A14,3,iSeq048-TM-LHamp-195-cREG1-100-100d_S294_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A14,3,iSeq048-TM-LHamp-195-cREG1-100-100d_S294_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A15,3,iSeq048-TM-LHamp-196-cREG1-100-100d_S295_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_A15,3,iSeq048-TM-LHamp-196-cREG1-100-100d_S295_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,A,ref.conformity
+KO_C1,3,iSeq048-TM-LHamp-211-cREG1-100-100d_S310_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C1,3,iSeq048-TM-LHamp-211-cREG1-100-100d_S310_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C2,3,iSeq048-TM-LHamp-212-cREG1-100-100d_S311_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C2,3,iSeq048-TM-LHamp-212-cREG1-100-100d_S311_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C3,3,iSeq048-TM-LHamp-213-cREG1-100-100d_S312_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C3,3,iSeq048-TM-LHamp-213-cREG1-100-100d_S312_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C4,3,iSeq048-TM-LHamp-214-cREG1-100-100d_S313_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C4,3,iSeq048-TM-LHamp-214-cREG1-100-100d_S313_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C5,3,iSeq048-TM-LHamp-215-cREG1-100-100d_S314_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C5,3,iSeq048-TM-LHamp-215-cREG1-100-100d_S314_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C6,3,iSeq048-TM-LHamp-216-cREG1-100-100d_S315_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C6,3,iSeq048-TM-LHamp-216-cREG1-100-100d_S315_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C7,3,iSeq048-TM-LHamp-217-cREG1-100-100d_S316_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C7,3,iSeq048-TM-LHamp-217-cREG1-100-100d_S316_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C8,3,iSeq048-TM-LHamp-218-cREG1-100-100d_S317_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C8,3,iSeq048-TM-LHamp-218-cREG1-100-100d_S317_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C9,3,iSeq048-TM-LHamp-219-cREG1-100-100d_S318_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C9,3,iSeq048-TM-LHamp-219-cREG1-100-100d_S318_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C10,3,iSeq048-TM-LHamp-220-cREG1-100-100d_S319_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C10,3,iSeq048-TM-LHamp-220-cREG1-100-100d_S319_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C11,3,iSeq048-TM-LHamp-221-cREG1-100-100d_S320_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C11,3,iSeq048-TM-LHamp-221-cREG1-100-100d_S320_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C12,3,iSeq048-TM-LHamp-222-cREG1-100-100d_S321_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C12,3,iSeq048-TM-LHamp-222-cREG1-100-100d_S321_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C13,3,iSeq048-TM-LHamp-223-cREG1-100-100d_S322_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C13,3,iSeq048-TM-LHamp-223-cREG1-100-100d_S322_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C14,3,iSeq048-TM-LHamp-224-cREG1-100-100d_S323_L001_R1_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+KO_C14,3,iSeq048-TM-LHamp-224-cREG1-100-100d_S323_L001_R2_001.fastq,45S-M_KO_100dpf,cas9-guide RNP (3 guides targeting 45S-M promoter),100,lh-amp,C,ref.conformity
+Uni_B1,3,iSeq048-TM-LHamp-225-cREG1-100-100d_S324_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B1,3,iSeq048-TM-LHamp-225-cREG1-100-100d_S324_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B2,3,iSeq048-TM-LHamp-226-cREG1-100-100d_S325_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B2,3,iSeq048-TM-LHamp-226-cREG1-100-100d_S325_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B3,3,iSeq048-TM-LHamp-227-cREG1-100-100d_S326_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B3,3,iSeq048-TM-LHamp-227-cREG1-100-100d_S326_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B4,3,iSeq048-TM-LHamp-228-cREG1-100-100d_S327_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B4,3,iSeq048-TM-LHamp-228-cREG1-100-100d_S327_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B5,3,iSeq048-TM-LHamp-229-cREG1-100-100d_S328_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B5,3,iSeq048-TM-LHamp-229-cREG1-100-100d_S328_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B6,3,iSeq048-TM-LHamp-230-cREG1-100-100d_S329_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B6,3,iSeq048-TM-LHamp-230-cREG1-100-100d_S329_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B7,3,iSeq048-TM-LHamp-231-cREG1-100-100d_S330_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B7,3,iSeq048-TM-LHamp-231-cREG1-100-100d_S330_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B8,3,iSeq048-TM-LHamp-232-cREG1-100-100d_S331_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B8,3,iSeq048-TM-LHamp-232-cREG1-100-100d_S331_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B9,3,iSeq048-TM-LHamp-233-cREG1-100-100d_S332_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B9,3,iSeq048-TM-LHamp-233-cREG1-100-100d_S332_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B10,3,iSeq048-TM-LHamp-234-cREG1-100-100d_S333_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B10,3,iSeq048-TM-LHamp-234-cREG1-100-100d_S333_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B11,3,iSeq048-TM-LHamp-235-cREG1-100-100d_S334_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B11,3,iSeq048-TM-LHamp-235-cREG1-100-100d_S334_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B12,3,iSeq048-TM-LHamp-236-cREG1-100-100d_S335_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B12,3,iSeq048-TM-LHamp-236-cREG1-100-100d_S335_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B13,3,iSeq048-TM-LHamp-237-cREG1-100-100d_S336_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B13,3,iSeq048-TM-LHamp-237-cREG1-100-100d_S336_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B14,3,iSeq048-TM-LHamp-238-cREG1-100-100d_S337_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B14,3,iSeq048-TM-LHamp-238-cREG1-100-100d_S337_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B15,3,iSeq048-TM-LHamp-239-cREG1-100-100d_S338_L001_R1_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
+Uni_B15,3,iSeq048-TM-LHamp-239-cREG1-100-100d_S338_L001_R2_001.fastq,45S-M_KO_100dpf,Uninjected,100,lh-amp,B,ref.conformity
